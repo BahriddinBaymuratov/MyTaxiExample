@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyTaxi</string>
+    <string name="mapbox_access_token">sk.eyJ1IjoiYmFocjFkZDFuIiwiYSI6ImNsZXkxc21yazBqZHUzcHA0ZXR4bW1qdHMifQ.1jtHP08T_P15TNH-Fvg0Ew</string>
+    <string name="access_token">pk.eyJ1IjoiYmFocjFkZDFuIiwiYSI6ImNsZXhybnJtZTA1d2M0N281Y2prdjd5cmsifQ.ePeejqExOhgslY8nwHSFMw</string>
+    <string name="mytaxi_toke">sk.eyJ1IjoiYmFocjFkZDFuIiwiYSI6ImNsZXh2YTgyOTJvM3Izc3J2NGI5bXN0Z3EifQ.zCakZay4qSHshaJug2DRvw</string>
+</resources>
